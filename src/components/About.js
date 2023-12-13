@@ -36,14 +36,6 @@ const About = () => {
         <Typography variant="body1" gutterBottom>
         All the functionality can be used with a keyboard only.
         </Typography>
-        <Typography variant="body1" gutterBottom>
-        Time usage: 120 Hours
-        </Typography>
-        <Typography variant="body1" gutterBottom>
-        The two most difficult functions for me to implement are configuration, which can be used to 
-        switch themes and modes, and accessibility, which allows for the use of all application functions 
-        with only a keyboard.
-        </Typography>
         <Typography variant="overline" display="block" color='red' gutterBottom>
           All the graphs in this website were created by the anthor.
         </Typography>
